@@ -11,3 +11,31 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+As a highly motivated and versatile individual, I am passionate about embracing challenges and constantly striving for personal and professional growth. I am eager to contribute my skills and knowledge to a dynamic and innovative team.
+
+I am a proactive problem solver with a keen eye for detail, always seeking creative and effective solutions to complex tasks. My experience working collaboratively in diverse environments has allowed me to achieve excellent communication and teamwork skills.
+
+My commitment to lifelong learning drives me to stay up-to-date with the latest industry trends and best practices, enabling me to adapt and excel in rapidly changing circumstances. I am adept at time management and thrive under pressure, ensuring timely and successful project completion.
+
+I believe my passion for continuous improvement and dedication to excellence make me a valuable asset to any team.
+
+---
+
+<h2> :hammer_and_wrench: Languages and Tools :</h2>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
