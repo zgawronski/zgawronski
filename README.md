@@ -18,7 +18,7 @@
 
 ---
 
-### :man_technologist: About Me :
+:man_technologist: About Me :
 As a highly motivated and versatile individual, I am passionate about embracing challenges and constantly striving for personal and professional growth. I am eager to contribute my skills and knowledge to a dynamic and innovative team.
 
 I am a proactive problem solver with a keen eye for detail, always seeking creative and effective solutions to complex tasks. My experience working collaboratively in diverse environments has allowed me to achieve excellent communication and teamwork skills.
@@ -29,7 +29,7 @@ I believe my passion for continuous improvement and dedication to excellence mak
 
 ---
 
-<h2> :hammer_and_wrench: Languages and Tools :</h2>
+:hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
